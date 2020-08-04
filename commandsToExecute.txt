@@ -22,8 +22,7 @@ export NVM_DIR="$HOME/.nvm"
 
 brew install yarn
 
-npm install -g jest
-npm install -g eslint
+npm install -g jest eslint
 
 brew cask install visual-studio-code
 
