@@ -22,7 +22,7 @@ export NVM_DIR="$HOME/.nvm"
 
 brew install yarn
 
-npm install -g jest eslint
+npm install -g jest eslint@5
 
 brew cask install visual-studio-code
 
@@ -35,4 +35,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 brew install zsh-autosuggestions
 brew install zsh-completions
 brew install zsh-syntax-highlighting
+
+# Add this line to the .zshrc file to have nvm on each terminal login
+[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh  # This loads NVM
 
