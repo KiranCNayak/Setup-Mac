@@ -39,3 +39,7 @@ brew install zsh-syntax-highlighting
 # Add this line to the .zshrc file to have nvm on each terminal login
 [[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh  # This loads NVM
 
+# After installing Android studio, add this to the .zshrc file
+export PATH='~/Library/Android/sdk/platform-tools/:$PATH'
+
+
