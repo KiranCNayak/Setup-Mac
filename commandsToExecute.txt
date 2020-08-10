@@ -22,6 +22,12 @@ export NVM_DIR="$HOME/.nvm"
 
 brew install yarn
 
+# For iOS development and Appium it is required
+brew install carthage
+
+# Appium download version 1.17.1-1
+https://github.com/appium/appium-desktop/releases/download/v1.17.1-1/Appium-mac-1.17.1-1.dmg
+
 npm install -g jest eslint@5
 
 brew cask install visual-studio-code
