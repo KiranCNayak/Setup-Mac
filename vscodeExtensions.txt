@@ -1,0 +1,6 @@
+pkief.material-icon-theme
+christian-kohler.path-intellisense
+formulahendry.auto-rename-tag
+bradgashler.htmltagwrap
+pflannery.vscode-versionlens
+dracula-theme.theme-dracula
