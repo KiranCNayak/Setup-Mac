@@ -5,6 +5,9 @@ brew cask install iterm2
 brew install git
 brew cask install brave-browser
 
+# For Cocoa pods
+sudo gem install cocoapods
+
 # For JetBrains Mono font
 brew cask install font-jetbrains-mono
 
