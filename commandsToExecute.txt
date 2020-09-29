@@ -6,7 +6,7 @@ brew install git
 brew cask install brave-browser
 
 # For Cocoa pods
-sudo gem install cocoapods
+brew install cocoapods
 
 # For JetBrains Mono font
 brew cask install font-jetbrains-mono
