@@ -4,4 +4,3 @@ formulahendry.auto-rename-tag
 bradgashler.htmltagwrap
 pflannery.vscode-versionlens
 dracula-theme.theme-dracula
-kato.intellij-idea-keybindings
