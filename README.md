@@ -1,4 +1,4 @@
-# Steps to run on a new MacBook to setup for Web and Mobile Development
+# Steps to follow to install tools on a new MacBook
 
 Steps:
 
