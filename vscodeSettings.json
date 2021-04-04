@@ -1,0 +1,19 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontSize": 12,
+    "explorer.confirmDelete": false,
+    "workbench.tree.indent": 24,
+    "editor.formatOnSave": true,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.openEditors.visible": 0,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 500
+}
