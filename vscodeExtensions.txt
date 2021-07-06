@@ -7,3 +7,4 @@ dracula-theme.theme-dracula
 oderwat.indent-rainbow
 wix.vscode-import-cost
 esbenp.prettier-vscode
+dbaeumer.vscode-eslint
